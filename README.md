@@ -8,3 +8,5 @@ Good to see you !. Let’s to show you how C is the kernel of the world! I will 
 > <a href="https://en.wikipedia.org/wiki/General-purpose_programming_language">general-purpose programming language (GPL)</a>
 ## doc c
 <a href="https://www.iso.org/standard/74528.html">iso18</a>,<a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf">iso17</a>
+## ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+<a href="https://www.iso.org/obp">ISO</a> , <a href="http://www.electropedia.org/">IEC</a>
