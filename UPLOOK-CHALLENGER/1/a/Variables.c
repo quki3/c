@@ -15,6 +15,7 @@ int main() {
     float radius, area, circumference;
     const float pi = 3.14159;
     printf("Enter the radius of a circle: ");
+    // scanf - function is used to read input from the user or from a file.
     scanf("%f", &radius);
     area = pi * radius * radius;
     circumference = 2 * pi * radius;
