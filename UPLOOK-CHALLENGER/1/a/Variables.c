@@ -7,6 +7,7 @@ int main() {
     // myInterger - name or variable
     int myInteger = 42;
     printf("The value of myInteger is: %d\n", myInteger);
+    
     // float - The size of a float variable is usually 4 bytes on most systems.
     // radius - variable
     // area - variable
@@ -19,6 +20,17 @@ int main() {
     circumference = 2 * pi * radius;
     printf("Area of the circle: %f\n", area);
     printf("Circumference of the circle: %f\n", circumference);
+
+    char myChar = 'A';
+    printf("The value of myChar is: %c\n", myChar);
+
+    // Signed char - can store values from -128 to 127. 
+    signed char mySignedChar = -50;
+    printf("The value of mySignedChar is: %d\n", mySignedChar);
+
+    // Unsigned char - can store values from 0 to 255
+    unsigned char myUnsignedChar = 200;
+    printf("The value of myUnsignedChar is: %u\n", myUnsignedChar);
     return 0;
 }
 
