@@ -22,6 +22,7 @@ int main() {
     printf("Area of the circle: %f\n", area);
     printf("Circumference of the circle: %f\n", circumference);
 
+    // char - 
     char myChar = 'A';
     printf("The value of myChar is: %c\n", myChar);
 
@@ -32,6 +33,23 @@ int main() {
     // Unsigned char - can store values from 0 to 255
     unsigned char myUnsignedChar = 200;
     printf("The value of myUnsignedChar is: %u\n", myUnsignedChar);
+
+    // array - 
+    // Define an array of integers with a size of 5
+    int numbers[5];
+    // Assign values to the array elements
+    numbers[0] = 10;
+    numbers[1] = 20;
+    numbers[2] = 30;
+    numbers[3] = 40;
+    numbers[4] = 50;
+
+    // Access and print the array elements
+    printf("numbers[0]: %d\n", numbers[0]);
+    printf("numbers[1]: %d\n", numbers[1]);
+    printf("numbers[2]: %d\n", numbers[2]);
+    printf("numbers[3]: %d\n", numbers[3]);
+    printf("numbers[4]: %d\n", numbers[4]);
     return 0;
 }
 
