@@ -50,6 +50,20 @@ int main() {
     printf("numbers[2]: %d\n", numbers[2]);
     printf("numbers[3]: %d\n", numbers[3]);
     printf("numbers[4]: %d\n", numbers[4]);
+
+    // set object o struct
+    // struct
+    struct Person {
+    char name[50];
+    int age;
+    };
+    struct Person person1;
+    // strcpy - s.l.c string copy use to copy an string to another place
+    strcpy(person1.name, "John");
+    person1.age = 25;
+    printf("Name: %s\n", person1.name);
+    printf("Age: %d\n", person1.age);
+    
     return 0;
 }
 
