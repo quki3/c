@@ -1,13 +1,30 @@
 // #include - the contents of that file are essentially copied and pasted into the source file at the location of the #include.
-// <stdio.h>- <> This form is used for including standard library header files for your file use "".
+// <> - This form is used for including standard library.
+// "" - for your file use "".
+// stdio.h -
+// string.h -
 #include <stdio.h>
+#include <string.h>
 // int- return type indicates that the main() function should return an integer value. 
 // main() - is the entry point of a C program. It is the function from where the program execution begins
+
+
+int ig1 = 2023;// global variable
 int main() {
-    // myInterger - name or variable
-    int myInteger = 42;
-    printf("The value of myInteger is: %d\n", myInteger);
+    // local variable int
+    // int - type number
+    int i1 = 42;
+    int i2,i3;
+    int i4=1,i5=2,i6=3;
+    printf("The value of i1 is: %d\n", i1);
+    printf("the value of i2, i3 : %d,%d\n",i2,i3);
+    printf("the value of i4,i5,i6 is: %d,%d,%d\n",i4,i5,i6);
     
+    // ** static
+    static int si1=10;
+    si1=si1+1; // incremented value in each func call
+    printf("static si1 = %d\n",si1);
+
     // float - The size of a float variable is usually 4 bytes on most systems.
     // radius - variable
     // area - variable

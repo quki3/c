@@ -12,7 +12,7 @@ Good to see you !. Let’s to show you how C is the kernel of the world! I will 
 <a href="https://www.iso.org/obp">ISO</a> , <a href="http://www.electropedia.org/">IEC</a>
 ## challenges
 1. 1/ access
-   - a/ define variables of various types, such as integers, floats, characters, , arrays and how can you declare a set or object.your <a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf">doc.</a>
+   - a/ define variables of various types, such as integers, floats, characters, , arrays and how can you declare a set or object.your <a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf">pdf.</a>,<a href="https://www.javatpoint.com/variables-in-c">javatpoint</a>.
    - b/ define functions to perform specific tasks.use the doc above.
    - c/ access the contents of files on your computer system with the handle file capabilities your doc is above
    - d/ access and manipulate the memory locations where variables or data structures are stored. your doc.
