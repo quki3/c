@@ -25,6 +25,9 @@ int main() {
     si1=si1+1; // incremented value in each func call
     printf("static si1 = %d\n",si1);
 
+    // short -
+    short st = -10; // is typically in the range of -32768 32767
+
     // float - The size of a float variable is usually 4 bytes on most systems.
     // radius - variable
     // area - variable
