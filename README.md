@@ -11,6 +11,7 @@ Good to see you !. Let’s to show you how C is the kernel of the world! I will 
 ## ISO and IEC maintain terminological databases for use in standardization at the following addresses:
 <a href="https://www.iso.org/obp">ISO</a> , <a href="http://www.electropedia.org/">IEC</a>
 ## challenges
+0.   - a/ how to run a file.c from the terminal?
 1. 1/ access
    - a/ define variables of various types, such as integers, floats, characters, , arrays and how can you declare a set or object.your <a href="https://www.open-std.org/jtc1/sc22/wg14/www/docs/n2310.pdf">pdf.</a>,<a href="https://www.javatpoint.com/variables-in-c">javatpoint</a>.
    - b/ define functions to perform specific tasks.use the doc above.
